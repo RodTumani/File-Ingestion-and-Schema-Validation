@@ -1,0 +1,9 @@
+columns:
+- Period
+- Inst_sector
+- Inst_sector_code
+- Descriptor
+- SNA08TRANS
+- Asset_liability_code
+- Values
+separator: '|'
